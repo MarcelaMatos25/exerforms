@@ -6,7 +6,7 @@ body, html {
 }
 
 .background {
-    background-color: #796a71; /* Caminho para sua imagem de fundo */
+    background-image: url(''); /* Caminho para sua imagem de fundo */
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
